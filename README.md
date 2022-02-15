@@ -23,7 +23,6 @@ Se no passo anterior descobrimos três minas terrestres, o item destacado em ama
 
 ![Exemplo campo minado jogada 3](https://github.com/ivory-it/ivoryit-testeestagio-campo-minado/blob/master/imagens/4.png)
 
-Antes de enfrentar o desafio, que tal jogar algumas partidas para você entender a dinâmica: https://minesweeper.online/
 
 # Sobre a aplicação
 Neste repositório existe uma console application construída que instancia a classe CampoMinado.
